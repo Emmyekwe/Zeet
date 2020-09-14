@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Zeet/static/css/main.57f25316.chunk.css",
+    "main.js": "/Zeet/static/js/main.d09857f5.chunk.js",
+    "main.js.map": "/Zeet/static/js/main.d09857f5.chunk.js.map",
+    "runtime-main.js": "/Zeet/static/js/runtime-main.513778d4.js",
+    "runtime-main.js.map": "/Zeet/static/js/runtime-main.513778d4.js.map",
+    "static/js/2.6183e824.chunk.js": "/Zeet/static/js/2.6183e824.chunk.js",
+    "static/js/2.6183e824.chunk.js.map": "/Zeet/static/js/2.6183e824.chunk.js.map",
+    "index.html": "/Zeet/index.html",
+    "precache-manifest.232c478f91d0848669446992f4d9250a.js": "/Zeet/precache-manifest.232c478f91d0848669446992f4d9250a.js",
+    "service-worker.js": "/Zeet/service-worker.js",
+    "static/css/main.57f25316.chunk.css.map": "/Zeet/static/css/main.57f25316.chunk.css.map",
+    "static/js/2.6183e824.chunk.js.LICENSE.txt": "/Zeet/static/js/2.6183e824.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.513778d4.js",
+    "static/js/2.6183e824.chunk.js",
+    "static/css/main.57f25316.chunk.css",
+    "static/js/main.d09857f5.chunk.js"
+  ]
+}
